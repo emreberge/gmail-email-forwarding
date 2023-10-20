@@ -53,3 +53,6 @@ The setup is simple:
 4. After setting your conditions, click "Create filter".
 5. On the next page, opt for "Apply the label" and make/select the label as set in the `todoLabelName` parameter in Step 1.
 6. Confirm by clicking "Create filter".
+
+## License
+tl;dr: [MIT](LICENSE)
