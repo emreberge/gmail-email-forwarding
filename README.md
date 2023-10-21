@@ -3,8 +3,8 @@
 ## Introduction
 Gmail filters allow you to configure a forwarding address, however the emails forwarded:
 
-* Does NOT apper as coming from your own adress, and instead is from the original sender.
-* Does NOT apper in your inbox.
+* Does NOT appear as coming from your own address, and instead shows as if it's from the original sender.
+* Does NOT appear in your sent inbox.
 
 This is a problem when forwarding emails to other automated systems (e.g. expense reporting), where the recipient needs to be a known and verified address.
 
