@@ -5,7 +5,7 @@ function autoForwardMail() {
 
   // Replace these and enclose in ""
   var forwardingAddress = <forwarToThisAddress@example.com>
-  var fromAddress = <myRmailAddress@example.com>
+  var fromAddress = <myGmailAddress@example.com>
   var todoLabelName = <auto-forward/todo>
   var completedLabelName = <auto-forward/forward-complete> 
   
